@@ -1,0 +1,220 @@
+{
+  "main": {
+    "name": "Dhananjay Soneji",
+    "occupation": "MERN Stack Software Engineer",
+    "description": "currently working as a freelancer where I push pixels, shuffle data, and slap my keyboard until everything works.",
+    "image": "profilepic.jpg",
+    "bio": "I'm a graduate student from Gujarat Technological University, India, and currently working as a Freelancer in the USA. Mobile application developer with experience in Native Android Development using Java and React Native for Cross-Platform Application Development. I love to create and tend to keep a few too many projects on the go at a time. Outside of work, I am a Rubik Cube solver 2 x 2, 3 x 3, pyramid and trying to solve ghost cube, Call of Duty player, and Movie/Music lover. I have dreamed of being able to take my work with me while traveling the world.",
+    "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "dhanansoneji@gmail.com",
+    "phone": "(815) 505-4767",
+    "address": {
+      "street": "3707 Harm's Rd",
+      "city": "Joliet",
+      "state": "IL",
+      "zip": "60435"
+    },
+    "resumedownload": "https://drive.google.com/file/d/1zkc2EjjeFTPY_KvyCmDhSCatrfrS7sZI/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/soneji.dhananjay",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/Dhananj98349301",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/dhananjay-soneji-678835185",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/dhanan____99",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/dhanansoneji",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over.",
+    "education": [
+      {
+        "school": "Gujarat Technological University",
+        "degree": "Bachelor's in Computer Engineering",
+        "graduated": "April 2020",
+        "description": "After the completion of High School, I transferred to the Gujarat Technological University. I took my Bachelor of Computer Engineering and achieved a much more thorough education in the underlying theory, concepts, and science behind more complex programming. It was here that I discovered my passion for scalable application programming (mobile)."
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelancer",
+        "title": "MERN Stack Developer",
+        "years": "January 2021 - Present",
+        "description": "Currently, I am working as a freelancer and applying for a full-time job in the USA. Meanwhile, I am working on an e-commerce Virtual Jewelry cross-platform mobile application for one of my clients. I have implemented various features, including AR(Augmented Reality), Products list, Favorite lists, and many more features as a part of Individual Developer. In addition, handling client calls to ensure the requirements of application."
+      },
+      {
+        "company": "QriousTech Team LLP",
+        "title": "React Native + Android Developer",
+        "years": "January 2019 - December 2020",
+        "description": "After converting as a full-time employee, I started working on different types of native android and cross-platform mobile applications. I have implemented various features including Music Service, Push Notifications, Background Location Services, Geo-Fencing, Payment Integration, and many more as a part of the Agile team. Manage offshore team and handle handover calls to ensure a smooth transition of tasks. I also get experience working as a team leader in one of my projects. I was a part of this team for 2 years."
+      },
+      {
+        "company": "QriousTech Team LLP",
+        "title": "Android Developer Intern",
+        "years": "September 2018 - December 2018",
+        "description": "This company was a startup and I have been invited to be a small but talented team. here I got a chance to explore myself by creating different types of small mobile applications in android as a learning purpose. I was blessed with the most knowledgeable persons on the team, who were always there to help out and to teach me new things."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": 70,
+        "image": "git.png"
+      },
+      {
+        "name": "Java",
+        "level": 75,
+        "image": "java.png"
+      },
+      {
+        "name": "JavaScript",
+        "level": 85,
+        "image": "javascript.png"
+      },
+      {
+        "name": "React Native",
+        "level": 85,
+        "image": "react-native.png"
+      },
+      {
+        "name": "ReactJs",
+        "level": 50,
+        "image": "react.svg"
+      },
+      {
+        "name": "MaterialUI",
+        "level": 40,
+        "image": "material-ui.png"
+      },
+      {
+        "name": "Bootstrap",
+        "level": 40,
+        "image": "bootstrap.png"
+      },
+      {
+        "name": "NodeJS",
+        "level": 50,
+        "image": "nodejs.png"
+      },
+      {
+        "name": "MongoDB",
+        "level": 50,
+        "image": "mongodb.png"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Memories Blogs Website",
+        "category": "A React based public memories blogs website",
+        "image": "memories-blogs.png",
+        "url": {
+          "web": "https://memories-frontend-2021.netlify.app",
+          "android": "",
+          "ios": ""
+        }
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website",
+        "image": "resume-website.png",
+        "url": {
+          "web": "https://dhanansonejidev.com",
+          "android": "",
+          "ios": ""
+        }
+      },
+      {
+        "title": "Get Parchi",
+        "category": "A React Native based finance management app",
+        "image": "get-parchi.png",
+        "url": {
+          "web": "",
+          "android": "https://play.google.com/store/apps/details?id=com.getparchi",
+          "ios": "https://apps.apple.com/in/app/parchi-beat-the-receipt/id1496581831"
+        }
+      },
+      {
+        "title": "My DJ Go",
+        "category": "A React Native based event management app",
+        "image": "my-dj-go.png",
+        "url": {
+          "web": "",
+          "android": "https://play.google.com/store/apps/details?id=com.godj",
+          "ios": "https://apps.apple.com/us/app/mydjgo/id1524277818"
+        }
+      },
+      {
+        "title": "Navigate 4 Cars",
+        "category": "A React Native based cars selling app",
+        "image": "navigate-4-cars.png",
+        "url": {
+          "web": "",
+          "android": "https://play.google.com/store/apps/details?id=com.cardealership",
+          "ios": "https://apps.apple.com/us/app/navigate-4-cars/id1525856052"
+        }
+      },
+      {
+        "title": "Nutrilife IO",
+        "category": "A Native Android based healthcare app",
+        "image": "nutrilife-io.png",
+        "url": {
+          "web": "",
+          "android": "https://play.google.com/store/apps/details?id=com.nutrilife",
+          "ios": ""
+        }
+      },
+      {
+        "title": "Latin Mix Masters",
+        "category": "A Native Android based Music app",
+        "image": "latin-mix-masters.png",
+        "url": {
+          "web": "",
+          "android": "https://play.google.com/store/apps/details?id=com.qrioustech.musicapp",
+          "ios": ""
+        }
+      },
+      {
+        "title": "My Hudl",
+        "category": "A Native Android based Business events management app",
+        "image": "my-hudl.png",
+        "url": {
+          "web": "",
+          "android": "https://play.google.com/store/apps/details?id=com.qrioustech.hudl",
+          "ios": ""
+        }
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "It was really nice working with Dhananjay, a good junior and a great friend. A person who takes challenges and is capable of accomplishing that. It was nice to have a positive attitude colleague like him in a team.",
+        "user": "Jaina Trivedi - Fullstack Web Developer at QriousTech Team LLP"
+      },
+      {
+        "text": "Dhananjay is a person everyone desire to have in their team. I got the chance to work with him, and it was really amazing. I didn’t have to worry about his tasks. If any task is assigned to him i can consider it perfectly done. optimization and innovative thinking are his best qualities. he is a fast learner as he can learn any new thing in very short time.",
+        "user": "Ashotosh Jani - Sr React Native Developer at QriousTech Team LLP"
+      }
+    ]
+  }
+}
